@@ -55,7 +55,7 @@ function Demo() {
 
   return (
     <div className="relative min-h-screen flex flex-col items-center bg-gray-50">
-      <div className="w-full h-44 bg-[url('assets/images/islamic_bg.jpg')] bg-cover bg-center" />
+      <div className="w-full h-44 bg-[url('/assets/images/islamic_bg.jpg')] bg-cover bg-center" />
       <p className="p-4 text-center max-w-2xl text-sm sm:text-base">
         Calculating Zakat involves a few key steps, and it depends on the type of wealth or assets you own. Here's a general breakdown of how to calculate it:
       </p>
